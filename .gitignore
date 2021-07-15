@@ -1,0 +1,6 @@
+# Ignore all sessions
+sessions/*
+!sessions/example.tmux.conf
+
+# Ignore all plugins
+plugins/
